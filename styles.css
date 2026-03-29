@@ -1,0 +1,23 @@
+@charset "utf-8";
+
+#wrapper{
+     width: auto;
+    height: auto;
+    background-color: brown;
+    justify-content: center;
+
+}
+h2{
+    position: center;
+}
+
+
+header{
+    display:flex ;
+    justify-content: center;
+    align-items: center;
+}
+body{
+    position: center;
+    
+}
